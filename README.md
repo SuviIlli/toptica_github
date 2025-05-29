@@ -6,7 +6,7 @@ General Rule: Don’t mess with a setting you do not understand or without a rea
 
 Below: labeled diagram of the setup 
 
-# ![Toptica Setup](images\toptica_setup.png)
+# ![Toptica Setup][images\toptica_setup.png]
 
 1. DLC Smart  
 2. Laser \#1  
