@@ -4,9 +4,9 @@
 
 General Rule: Don’t mess with a setting you do not understand or without a reason to modify it. Unless the setting is specifically mentioned in this document, you should not need to change it\! Many parts of this setup are very sensitive, and you don’t want to fry anything\!
 
-Below: labeled diagram of the setup (will be referenced throughout this doc with red)
+Below: labeled diagram of the setup 
 
-# ![][image1]
+# ![Toptica Setup](images\toptica_setup.png)
 
 1. DLC Smart  
 2. Laser \#1  
